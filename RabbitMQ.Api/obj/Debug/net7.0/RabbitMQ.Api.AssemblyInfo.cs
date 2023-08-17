@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("RabbitMQ.Api")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("RabbitMq.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("RabbitMQ.Api")]
-[assembly: System.Reflection.AssemblyTitleAttribute("RabbitMQ.Api")]
+[assembly: System.Reflection.AssemblyProductAttribute("RabbitMq.Api")]
+[assembly: System.Reflection.AssemblyTitleAttribute("RabbitMq.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

@@ -1,0 +1,16 @@
+﻿/.idea/
+
+[Oo]bj/
+[Bb]in/
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+[Ll]og/
+x64/
+x86/
+bld/
+.vs/
+.editorConfig/
+
+/RabbitMq.Api/obj/
